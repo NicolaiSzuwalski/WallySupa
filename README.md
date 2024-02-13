@@ -1,0 +1,2 @@
+# WallySupa
+Wallywood supabase version
